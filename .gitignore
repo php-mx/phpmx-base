@@ -1,0 +1,12 @@
+# MX CORE
+
+/.env
+/vendor
+/library/cache
+/library/certificate
+
+# MX DATALAYER
+
+/class/Model/Db*/Driver
+/library/sqlite
+/system/datalayer/*/scheme
