@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-core.git",
-                "reference": "27284954c8e2427d70072f45c5ee304857a7e65d"
+                "reference": "5a360b9b8b74cf1c8ac905df3b31443179fbfa59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-core/zipball/27284954c8e2427d70072f45c5ee304857a7e65d",
-                "reference": "27284954c8e2427d70072f45c5ee304857a7e65d",
+                "url": "https://api.github.com/repos/php-mx/phpmx-core/zipball/5a360b9b8b74cf1c8ac905df3b31443179fbfa59",
+                "reference": "5a360b9b8b74cf1c8ac905df3b31443179fbfa59",
                 "shasum": ""
             },
             "require": {
@@ -67,12 +67,12 @@
                     "email": "contatoadmx@gmail.com"
                 }
             ],
-            "description": "Núcleo para criação de aplicações modernas com phpMX",
+            "description": "Núcleo leve, rastreável e modular para criação de aplicações modernas com PHP, orientado à manutenção e performance.",
             "support": {
                 "issues": "https://github.com/php-mx/phpmx-core/issues",
                 "source": "https://github.com/php-mx/phpmx-core/tree/main"
             },
-            "time": "2025-07-25T20:13:20+00:00"
+            "time": "2025-07-25T22:50:01+00:00"
         },
         {
             "name": "phpmx/datalayer",
@@ -80,12 +80,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-datalayer.git",
-                "reference": "0d2f6133ad2f7d4e37c9e5badb04b0231500c50f"
+                "reference": "992b38ae0929cb7f49011145039efd6839856e37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-datalayer/zipball/0d2f6133ad2f7d4e37c9e5badb04b0231500c50f",
-                "reference": "0d2f6133ad2f7d4e37c9e5badb04b0231500c50f",
+                "url": "https://api.github.com/repos/php-mx/phpmx-datalayer/zipball/992b38ae0929cb7f49011145039efd6839856e37",
+                "reference": "992b38ae0929cb7f49011145039efd6839856e37",
                 "shasum": ""
             },
             "require": {
@@ -118,12 +118,12 @@
                     "email": "contatoadmx@gmail.com"
                 }
             ],
-            "description": "Camada de conexão com banco de dados para aplicações phpMX",
+            "description": "Camada de persistência e abstração de banco de dados para aplicações PHPMX",
             "support": {
                 "issues": "https://github.com/php-mx/phpmx-datalayer/issues",
                 "source": "https://github.com/php-mx/phpmx-datalayer/tree/main"
             },
-            "time": "2025-07-25T16:32:12+00:00"
+            "time": "2025-07-25T22:50:59+00:00"
         },
         {
             "name": "phpmx/dimage",
@@ -131,12 +131,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-dimage.git",
-                "reference": "e116e41bf72d675c883fc70decdccef3b527576f"
+                "reference": "b6b3db9d644e5ec8581b68a2328765cd1476bcef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-dimage/zipball/e116e41bf72d675c883fc70decdccef3b527576f",
-                "reference": "e116e41bf72d675c883fc70decdccef3b527576f",
+                "url": "https://api.github.com/repos/php-mx/phpmx-dimage/zipball/b6b3db9d644e5ec8581b68a2328765cd1476bcef",
+                "reference": "b6b3db9d644e5ec8581b68a2328765cd1476bcef",
                 "shasum": ""
             },
             "require": {
@@ -164,12 +164,12 @@
                     "email": "contatoadmx@gmail.com"
                 }
             ],
-            "description": "Ferramenta pra edição de imagens phpMX",
+            "description": "Ferramenta de manipulação de imagens para aplicações PHPMX",
             "support": {
                 "issues": "https://github.com/php-mx/phpmx-dimage/issues",
                 "source": "https://github.com/php-mx/phpmx-dimage/tree/main"
             },
-            "time": "2025-07-25T16:04:27+00:00"
+            "time": "2025-07-25T22:51:01+00:00"
         },
         {
             "name": "phpmx/front",
@@ -177,12 +177,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-front.git",
-                "reference": "d718efb32982f50706e23bb45b78e507a257ecb9"
+                "reference": "ebeaea1cd82ea51ac72a90a405c52219f916821a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-front/zipball/d718efb32982f50706e23bb45b78e507a257ecb9",
-                "reference": "d718efb32982f50706e23bb45b78e507a257ecb9",
+                "url": "https://api.github.com/repos/php-mx/phpmx-front/zipball/ebeaea1cd82ea51ac72a90a405c52219f916821a",
+                "reference": "ebeaea1cd82ea51ac72a90a405c52219f916821a",
                 "shasum": ""
             },
             "require": {
@@ -216,12 +216,12 @@
                     "email": "contatoadmx@gmail.com"
                 }
             ],
-            "description": "Motor de aplicações monoliticas com phpMx",
+            "description": "Motor de aplicações monolíticas com PHPMX",
             "support": {
                 "issues": "https://github.com/php-mx/phpmx-front/issues",
                 "source": "https://github.com/php-mx/phpmx-front/tree/main"
             },
-            "time": "2025-07-25T17:17:01+00:00"
+            "time": "2025-07-26T16:11:05+00:00"
         },
         {
             "name": "phpmx/server",
@@ -229,12 +229,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-server.git",
-                "reference": "b89a6c5c95a0d29d5b467483cc9e5394a4e2a19c"
+                "reference": "1e5474ac8e17b232051e6a062ce76e282aa98870"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-server/zipball/b89a6c5c95a0d29d5b467483cc9e5394a4e2a19c",
-                "reference": "b89a6c5c95a0d29d5b467483cc9e5394a4e2a19c",
+                "url": "https://api.github.com/repos/php-mx/phpmx-server/zipball/1e5474ac8e17b232051e6a062ce76e282aa98870",
+                "reference": "1e5474ac8e17b232051e6a062ce76e282aa98870",
                 "shasum": ""
             },
             "require": {
@@ -267,12 +267,12 @@
                     "email": "contatoadmx@gmail.com"
                 }
             ],
-            "description": "Camada para servidor de api phpMX",
+            "description": "Camada para criação de APIs com PHPMX",
             "support": {
                 "issues": "https://github.com/php-mx/phpmx-server/issues",
                 "source": "https://github.com/php-mx/phpmx-server/tree/main"
             },
-            "time": "2025-07-25T17:04:15+00:00"
+            "time": "2025-07-26T02:49:54+00:00"
         },
         {
             "name": "phpmx/view",
@@ -280,12 +280,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-view.git",
-                "reference": "58289b19dbdeb625f97705180470c31956fd54ca"
+                "reference": "a1f6c66a413ab05d0e4fab7a744930798684a7e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-view/zipball/58289b19dbdeb625f97705180470c31956fd54ca",
-                "reference": "58289b19dbdeb625f97705180470c31956fd54ca",
+                "url": "https://api.github.com/repos/php-mx/phpmx-view/zipball/a1f6c66a413ab05d0e4fab7a744930798684a7e6",
+                "reference": "a1f6c66a413ab05d0e4fab7a744930798684a7e6",
                 "shasum": ""
             },
             "require": {
@@ -312,12 +312,12 @@
                     "email": "contatoadmx@gmail.com"
                 }
             ],
-            "description": "Renderizador da camada de visualização do phpMX",
+            "description": "Renderizador da camada de visualização do PHPMX",
             "support": {
                 "issues": "https://github.com/php-mx/phpmx-view/issues",
                 "source": "https://github.com/php-mx/phpmx-view/tree/main"
             },
-            "time": "2025-07-25T16:34:19+00:00"
+            "time": "2025-07-25T22:50:58+00:00"
         }
     ],
     "packages-dev": [],
