@@ -1,18 +1,24 @@
 <div id="__scope">
-    <div>
-        <img src="/favicon.ico" />
-        <p>Simplesmente PHP</p>
-    </div>
+    <img src="/favicon.ico" />
+    <p>Simplesmente PHP</p>
+    <small href="https://phpmx.dev/doc">Veja a documantação completa</small>
 </div>
-
-<script>
-    app.__scope = {
-        // script here
-    }
-</script>
 
 <style>
     #__scope {
-        /* style here */
+        img {
+            animation: balanco 2.5s ease-in-out infinite alternate;
+            transform-origin: center top;
+        }
+    }
+
+    @keyframes balanco {
+        0% {
+            transform: rotate(-3deg);
+        }
+
+        100% {
+            transform: rotate(3deg);
+        }
     }
 </style>
