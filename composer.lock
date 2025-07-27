@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-core.git",
-                "reference": "8cdb3dc2008d31b36177a6e11c06a7605624d173"
+                "reference": "0ee33688e517e34efac10d23ee3d810101eabfce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-core/zipball/8cdb3dc2008d31b36177a6e11c06a7605624d173",
-                "reference": "8cdb3dc2008d31b36177a6e11c06a7605624d173",
+                "url": "https://api.github.com/repos/php-mx/phpmx-core/zipball/0ee33688e517e34efac10d23ee3d810101eabfce",
+                "reference": "0ee33688e517e34efac10d23ee3d810101eabfce",
                 "shasum": ""
             },
             "require": {
@@ -72,7 +72,7 @@
                 "issues": "https://github.com/php-mx/phpmx-core/issues",
                 "source": "https://github.com/php-mx/phpmx-core/tree/main"
             },
-            "time": "2025-07-27T14:35:48+00:00"
+            "time": "2025-07-27T14:41:47+00:00"
         },
         {
             "name": "phpmx/datalayer",
