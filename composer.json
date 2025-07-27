@@ -1,4 +1,15 @@
 {
+    "name": "phpmx/base",
+    "description": "Projeto base oficial para aplicações completas utilizando o ecossistema PHPMX",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Ricardo",
+            "email": "contatoadmx@gmail.com",
+            "role": "Developer for PHPMX"
+        }
+    ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
