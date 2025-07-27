@@ -26,5 +26,13 @@
         "phpmx/view": "dev-main",
         "phpmx/server": "dev-main",
         "phpmx/front": "dev-main"
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "php mx install"
+        ],
+        "post-install-cmd": [
+            "php mx deploy"
+        ]
     }
 }

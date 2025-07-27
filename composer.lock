@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fcb9fe3fa01dac0da3e9ab5963920b6a",
+    "content-hash": "85cbc561b7c575eb52d9b29eaae14dc1",
     "packages": [
         {
             "name": "phpmx/core",
