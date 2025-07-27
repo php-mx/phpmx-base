@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-core.git",
-                "reference": "f6101e73a8f9a617f4db6ed3ece115d980125fb7"
+                "reference": "8cdb3dc2008d31b36177a6e11c06a7605624d173"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-core/zipball/f6101e73a8f9a617f4db6ed3ece115d980125fb7",
-                "reference": "f6101e73a8f9a617f4db6ed3ece115d980125fb7",
+                "url": "https://api.github.com/repos/php-mx/phpmx-core/zipball/8cdb3dc2008d31b36177a6e11c06a7605624d173",
+                "reference": "8cdb3dc2008d31b36177a6e11c06a7605624d173",
                 "shasum": ""
             },
             "require": {
@@ -72,7 +72,7 @@
                 "issues": "https://github.com/php-mx/phpmx-core/issues",
                 "source": "https://github.com/php-mx/phpmx-core/tree/main"
             },
-            "time": "2025-07-27T14:18:05+00:00"
+            "time": "2025-07-27T14:35:48+00:00"
         },
         {
             "name": "phpmx/datalayer",
@@ -80,12 +80,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-datalayer.git",
-                "reference": "992b38ae0929cb7f49011145039efd6839856e37"
+                "reference": "b58a6a990bf1c544f1135048f36f3802363f7d8a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-datalayer/zipball/992b38ae0929cb7f49011145039efd6839856e37",
-                "reference": "992b38ae0929cb7f49011145039efd6839856e37",
+                "url": "https://api.github.com/repos/php-mx/phpmx-datalayer/zipball/b58a6a990bf1c544f1135048f36f3802363f7d8a",
+                "reference": "b58a6a990bf1c544f1135048f36f3802363f7d8a",
                 "shasum": ""
             },
             "require": {
@@ -123,7 +123,7 @@
                 "issues": "https://github.com/php-mx/phpmx-datalayer/issues",
                 "source": "https://github.com/php-mx/phpmx-datalayer/tree/main"
             },
-            "time": "2025-07-25T22:50:59+00:00"
+            "time": "2025-07-27T14:39:26+00:00"
         },
         {
             "name": "phpmx/dimage",
@@ -177,12 +177,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-front.git",
-                "reference": "e130916f319afcf91b88a9c2cbdb825e3d6f0549"
+                "reference": "963a9f7e0663c4add15c60c9197fef76c12e0302"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-front/zipball/e130916f319afcf91b88a9c2cbdb825e3d6f0549",
-                "reference": "e130916f319afcf91b88a9c2cbdb825e3d6f0549",
+                "url": "https://api.github.com/repos/php-mx/phpmx-front/zipball/963a9f7e0663c4add15c60c9197fef76c12e0302",
+                "reference": "963a9f7e0663c4add15c60c9197fef76c12e0302",
                 "shasum": ""
             },
             "require": {
@@ -221,7 +221,7 @@
                 "issues": "https://github.com/php-mx/phpmx-front/issues",
                 "source": "https://github.com/php-mx/phpmx-front/tree/main"
             },
-            "time": "2025-07-27T13:52:35+00:00"
+            "time": "2025-07-27T14:38:25+00:00"
         },
         {
             "name": "phpmx/server",
@@ -229,12 +229,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-server.git",
-                "reference": "1e5474ac8e17b232051e6a062ce76e282aa98870"
+                "reference": "70616ac06fe17f53ed9869e4ce294e7390f9569d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-server/zipball/1e5474ac8e17b232051e6a062ce76e282aa98870",
-                "reference": "1e5474ac8e17b232051e6a062ce76e282aa98870",
+                "url": "https://api.github.com/repos/php-mx/phpmx-server/zipball/70616ac06fe17f53ed9869e4ce294e7390f9569d",
+                "reference": "70616ac06fe17f53ed9869e4ce294e7390f9569d",
                 "shasum": ""
             },
             "require": {
@@ -272,7 +272,7 @@
                 "issues": "https://github.com/php-mx/phpmx-server/issues",
                 "source": "https://github.com/php-mx/phpmx-server/tree/main"
             },
-            "time": "2025-07-26T02:49:54+00:00"
+            "time": "2025-07-27T14:37:12+00:00"
         },
         {
             "name": "phpmx/view",
