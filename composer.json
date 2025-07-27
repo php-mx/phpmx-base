@@ -28,9 +28,6 @@
         "phpmx/front": "dev-main"
     },
     "scripts": {
-        "post-create-project-cmd": [
-            "php mx install"
-        ],
         "post-install-cmd": [
             "php mx deploy"
         ]
