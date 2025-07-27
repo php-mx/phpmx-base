@@ -31,6 +31,9 @@
         "post-create-project-cmd": [
             "php mx install"
         ],
+        "post-update-cmd": [
+            "php mx deploy"
+        ],
         "post-install-cmd": [
             "php mx deploy"
         ]
