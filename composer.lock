@@ -177,12 +177,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-front.git",
-                "reference": "ebeaea1cd82ea51ac72a90a405c52219f916821a"
+                "reference": "e130916f319afcf91b88a9c2cbdb825e3d6f0549"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-front/zipball/ebeaea1cd82ea51ac72a90a405c52219f916821a",
-                "reference": "ebeaea1cd82ea51ac72a90a405c52219f916821a",
+                "url": "https://api.github.com/repos/php-mx/phpmx-front/zipball/e130916f319afcf91b88a9c2cbdb825e3d6f0549",
+                "reference": "e130916f319afcf91b88a9c2cbdb825e3d6f0549",
                 "shasum": ""
             },
             "require": {
@@ -221,7 +221,7 @@
                 "issues": "https://github.com/php-mx/phpmx-front/issues",
                 "source": "https://github.com/php-mx/phpmx-front/tree/main"
             },
-            "time": "2025-07-26T16:11:05+00:00"
+            "time": "2025-07-27T13:52:35+00:00"
         },
         {
             "name": "phpmx/server",
@@ -280,12 +280,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mx/phpmx-view.git",
-                "reference": "a1f6c66a413ab05d0e4fab7a744930798684a7e6"
+                "reference": "df5a32a15759f890c9dff0d61200babe4b1fa038"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mx/phpmx-view/zipball/a1f6c66a413ab05d0e4fab7a744930798684a7e6",
-                "reference": "a1f6c66a413ab05d0e4fab7a744930798684a7e6",
+                "url": "https://api.github.com/repos/php-mx/phpmx-view/zipball/df5a32a15759f890c9dff0d61200babe4b1fa038",
+                "reference": "df5a32a15759f890c9dff0d61200babe4b1fa038",
                 "shasum": ""
             },
             "require": {
@@ -317,7 +317,7 @@
                 "issues": "https://github.com/php-mx/phpmx-view/issues",
                 "source": "https://github.com/php-mx/phpmx-view/tree/main"
             },
-            "time": "2025-07-25T22:50:58+00:00"
+            "time": "2025-07-26T22:53:50+00:00"
         }
     ],
     "packages-dev": [],

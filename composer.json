@@ -1,13 +1,5 @@
 {
     "minimum-stability": "dev",
-    "require": {
-        "phpmx/core": "dev-main",
-        "phpmx/datalayer": "dev-main",
-        "phpmx/dimage": "dev-main",
-        "phpmx/view": "dev-main",
-        "phpmx/server": "dev-main",
-        "phpmx/front": "dev-main"
-    },
     "autoload": {
         "psr-4": {
             "": "class/"
@@ -15,5 +7,13 @@
         "files": [
             "system/helper/script/path.php"
         ]
+    },
+    "require": {
+        "phpmx/core": "dev-main",
+        "phpmx/datalayer": "dev-main",
+        "phpmx/dimage": "dev-main",
+        "phpmx/view": "dev-main",
+        "phpmx/server": "dev-main",
+        "phpmx/front": "dev-main"
     }
 }
