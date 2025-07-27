@@ -2,7 +2,7 @@
 
 namespace Controller\Api;
 
-class Status
+class Ping
 {
     function __invoke()
     {
