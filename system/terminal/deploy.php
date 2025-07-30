@@ -1,11 +1,14 @@
 <?php
 
+use PhpMx\Dir;
 use PhpMx\Terminal;
 
 return new class extends Terminal {
 
     function __invoke()
     {
+        Dir::remove('library/cache', true);
+
         self::echo('Command [deploy] running');
     }
 };
